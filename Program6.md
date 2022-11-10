@@ -11,6 +11,7 @@ int main()
     printf("\n bitwise XOR operator = A ^ B = %d", a ^ b);
    return 0;
 }
+
 ```
 **Output**= 
 a=12 , b=25
