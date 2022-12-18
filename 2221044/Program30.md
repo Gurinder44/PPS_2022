@@ -1,4 +1,4 @@
-## Program 29: Write a code to check prime number. ##
+## Program 30: Write a code to check prime number. ##
 #include<stdio.h>
 int main()
 {
